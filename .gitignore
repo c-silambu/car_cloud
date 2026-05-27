@@ -1,0 +1,6 @@
+echo "node_modules/
+.env
+*.db
+__pycache__/
+*.pyc
+dist/" > .gitignore
